@@ -1,0 +1,5 @@
+1. Enter email address
+2. Enter Password
+3. Enter courseID i.e. ex. ml-2012-002
+4. Enter Path where you want to download videos to i.e. ex. /home/ninja/Desktop
+5. On Desktop it creates a folder named ml-2012-002 and downloads all videos to that folder
